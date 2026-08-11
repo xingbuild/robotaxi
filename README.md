@@ -207,6 +207,6 @@ flowchart LR
 
 ## 开源许可
 
-本项目原创代码采用 [MIT License](LICENSE)。
+本项目原创代码采用 [MIT License](https://github.com/xingbuild/robotaxi/blob/main/LICENSE)。
 
 第三方组件继续适用其各自许可证，请以组件随附的许可文件或上游项目说明为准。
