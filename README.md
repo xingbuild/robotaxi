@@ -204,3 +204,9 @@ flowchart LR
 | [版本记录](VERSION.md) | 当前版本与历史变化 |
 | [字段字典](doc/rules/field-dictionary.md) | 业务对象、字段、状态和枚举 |
 | [模拟运行架构](doc/rules/07-simulation-runtime-architecture-rules.md) | 业务服务与模拟运行边界 |
+
+## 开源许可
+
+本项目原创代码采用 [MIT License](LICENSE)。
+
+第三方组件继续适用其各自许可证，请以组件随附的许可文件或上游项目说明为准。
